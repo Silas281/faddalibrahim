@@ -18,9 +18,9 @@ I'm a **Technical Writer** and **Software Engineer** who builds resilient ui/ux 
 <br />
 
 <div style="display:flex;justify-content: space-between">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=faddalibrahim&theme=ayu-mirage&hide_border=true" width="49.5%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Silas281&theme=ayu-mirage&hide_border=true" width="49.5%"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=faddalibrahim&show_icons=true&include_all_commits=true&theme=ayu-mirage&hide_border=true&count_private=true" width="49.5%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Silas281&show_icons=true&include_all_commits=true&theme=ayu-mirage&hide_border=true&count_private=true" width="49.5%"/>
 
 </div>  
 <br/>
